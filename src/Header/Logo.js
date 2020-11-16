@@ -1,7 +1,9 @@
+import LogoH from "./logo.svg";
+
 function Logo() {
     return(
       <div className="logo">
-          Красивый логотип
+          <img src={LogoH} alt="LOGO"/>
       </div>
     );
 }
