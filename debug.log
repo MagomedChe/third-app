@@ -1,0 +1,14 @@
+[1113/120304.002:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1116/104301.374:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/104301.392:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/104301.393:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/104301.393:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/105301.374:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/105301.374:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/105301.374:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/105301.374:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/105301.388:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Р”Р°Р¶РёРєР°РµРІ\AppData\Local\Google\Chrome\User Data\Crashpad\reports\215ad7aa-a3bf-4935-aedb-94e3645c51e2.dmp: Не удается найти указанный файл. (0x2)
+[1116/105301.388:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Р”Р°Р¶РёРєР°РµРІ\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a0c52168-fd48-42d4-b6a8-5c9af69e4db8.dmp: Не удается найти указанный файл. (0x2)
+[1116/105301.388:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Р”Р°Р¶РёРєР°РµРІ\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e99c87c1-a657-4826-bfa9-0ab561fe78b6.dmp: Не удается найти указанный файл. (0x2)
+[1116/105301.388:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Р”Р°Р¶РёРєР°РµРІ\AppData\Local\Google\Chrome\User Data\Crashpad\reports\31ca0a7d-ec17-424a-943e-de7a51c2fc1a.dmp: Не удается найти указанный файл. (0x2)
+[1116/105301.388:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
